@@ -1,5 +1,5 @@
 //Variable Coding Challenge #1
-
+//Code reviewed on 2.19.18
 var firstString = "Aloha"
 let secondString = " Hawaii"
 var thirdString = firstString + secondString
